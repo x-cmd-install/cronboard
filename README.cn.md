@@ -4,13 +4,25 @@
 
 A terminal-based dashboard for managing cron jobs locally and on servers.
 
-![cronboard](https://repo.x-cmd.io/cronboard.svg)
+![cronboard](https://repo.x-cmd.io/cronboard.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install cronboard
 ```
+
+## 代码规模
+
+合计: **5,894** 行代码（覆盖前 5 种语言、共 **50** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Python | 4,398 | 23 | 1,018 | 43 |
+| Css | 922 | 70 | 155 | 2 |
+| Html | 159 | 6 | 7 | 2 |
+| Toml | 109 | 210 | 53 | 2 |
+| Nix | 104 | 0 | 13 | 1 |
 
 ## 源代码
 
@@ -23,7 +35,6 @@ x install cronboard
 - **最新版本**: `v1.1.1` (2026-07-28)
 - **最近提交**: 2026-09-08
 - **Release 含资产**: 2 个
-- **发布时间**: 2026-07-28T12:22:00Z
 
 ## 流行度
 
@@ -38,20 +49,26 @@ x install cronboard
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-07-12 | 5 | 0 | 0 | 2 | 0 | 126 |
 | 90d | 2026-06-12 | 5 | 0 | 1 | 3 | 0 | 128 |
+| last180d | 2026-03-14 | 13 | 7 | 3 | 11 | 1 | 314 |
 | 360d | 2025-09-15 | 27 | 16 | 3 | 26 | 2 | 440 |
+| last720d | 2024-09-20 | 27 | 16 | 3 | 26 | 2 | 467 |
 
-## 代码规模
+## Release 资产
 
-合计: **5,894** 行代码（覆盖前 5 种语言、共 **50** 个文件）。
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [cronboard-1.1.1-py3-none-any.whl](https://github.com/antoniorodr/cronboard/releases/download/v1.1.1/cronboard-1.1.1-py3-none-any.whl) | 45.5 KiB | `other` |
+| [cronboard-1.1.1.tar.gz](https://github.com/antoniorodr/cronboard/releases/download/v1.1.1/cronboard-1.1.1.tar.gz) | 37.7 KiB | `native/unknown` |
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Python | 4,398 | 23 | 1,018 | 43 |
-| Css | 922 | 70 | 155 | 2 |
-| Html | 159 | 6 | 7 | 2 |
-| Toml | 109 | 210 | 53 | 2 |
-| Nix | 104 | 0 | 13 | 1 |
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/cronboard) 上共有 **3** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `1.1.1` | ✅ latest |
 
 ## 改进这些数据
 
@@ -62,4 +79,4 @@ cronboard 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:46:03Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:23:52Z._
