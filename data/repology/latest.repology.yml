@@ -1,0 +1,34 @@
+- repo: altsisyphus
+  srcname: cronboard
+  binnames:
+    - cronboard
+  visiblename: cronboard
+  version: 1.1.1
+  origversion: 1.1.1-alt1
+  status: newest
+  summary: A terminal-based dashboard for managing cron jobs locally and on servers
+  maintainers:
+    - shad@altlinux.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - System/Configuration/Other
+- repo: aur
+  srcname: cronboard
+  binname: cronboard
+  visiblename: cronboard
+  version: 1.1.1
+  origversion: 1.1.1-1
+  status: newest
+  summary: A terminal-based dashboard for managing cron jobs
+  maintainers:
+    - antoniorodr@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: cronboard
+  visiblename: cronboard
+  version: 1.1.1
+  origversion: null
+  status: newest
+  summary: Terminal-based dashboard for managing cron jobs locally and on servers
