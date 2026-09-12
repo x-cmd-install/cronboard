@@ -48,12 +48,12 @@ Total: **5,894** lines of code across **50** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last60d | 2026-07-13 | 5 | 0 | 0 | 2 | 0 | 126 |
-| 90d | 2026-06-13 | 5 | 0 | 1 | 3 | 0 | 128 |
-| last180d | 2026-03-15 | 13 | 7 | 3 | 11 | 1 | 314 |
-| 360d | 2025-09-16 | 27 | 16 | 3 | 26 | 2 | 440 |
-| last720d | 2024-09-21 | 27 | 16 | 3 | 26 | 2 | 467 |
+| 30d | 2026-08-13 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-07-14 | 5 | 0 | 0 | 2 | 0 | 126 |
+| 90d | 2026-06-14 | 5 | 0 | 1 | 3 | 0 | 128 |
+| last180d | 2026-03-16 | 13 | 7 | 3 | 11 | 1 | 314 |
+| 360d | 2025-09-17 | 27 | 16 | 3 | 26 | 2 | 440 |
+| last720d | 2024-09-22 | 27 | 16 | 3 | 26 | 2 | 467 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for cronboard lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T19:23:39Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T05:35:18Z._
