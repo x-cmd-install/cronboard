@@ -38,7 +38,7 @@ Total: **5,894** lines of code across **50** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,452 · **Forks**: 59 · **Open issues**: 28 · **Contributors**: 9
+- **Stars**: 1,452 · **Forks**: 60 · **Open issues**: 28 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **5,894** lines of code across **50** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last60d | 2026-07-15 | 5 | 0 | 0 | 2 | 0 | 88 |
-| 90d | 2026-06-15 | 5 | 0 | 1 | 3 | 0 | 128 |
-| last180d | 2026-03-17 | 13 | 6 | 3 | 11 | 1 | 310 |
-| 360d | 2025-09-18 | 27 | 16 | 3 | 26 | 2 | 440 |
-| last720d | 2024-09-23 | 27 | 16 | 3 | 26 | 2 | 467 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-07-16 | 5 | 0 | 0 | 2 | 0 | 88 |
+| 90d | 2026-06-16 | 5 | 0 | 1 | 3 | 0 | 128 |
+| last180d | 2026-03-18 | 13 | 6 | 3 | 11 | 1 | 310 |
+| 360d | 2025-09-19 | 27 | 16 | 3 | 26 | 2 | 440 |
+| last720d | 2024-09-24 | 27 | 16 | 3 | 26 | 2 | 467 |
 
 ## Release assets
 
@@ -61,14 +61,6 @@ Total: **5,894** lines of code across **50** files in the top 5 languages.
 |-------|-----:|--------|
 | [cronboard-1.1.1-py3-none-any.whl](https://github.com/antoniorodr/cronboard/releases/download/v1.1.1/cronboard-1.1.1-py3-none-any.whl) | 45.5 KiB | `other` |
 | [cronboard-1.1.1.tar.gz](https://github.com/antoniorodr/cronboard/releases/download/v1.1.1/cronboard-1.1.1.tar.gz) | 37.7 KiB | `native/unknown` |
-
-## Distribution status
-
-Reported by **3** distros on [repology.org](https://repology.org/project/cronboard). **3** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.1.1` | ✅ latest |
 
 ## Improve this data
 
@@ -79,4 +71,4 @@ Install metadata for cronboard lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:46:56Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:03:34Z._
