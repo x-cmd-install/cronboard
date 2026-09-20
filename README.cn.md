@@ -4,7 +4,7 @@
 
 A terminal-based dashboard for managing cron jobs locally and on servers.
 
-![cronboard](https://repo.x-cmd.io/cronboard.svg?lang=zh)
+[![x-cmd/install — cronboard Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cronboard.svg?lang=zh)](https://x-cmd.com/install/cronboard)
 
 ## 安装
 
@@ -38,7 +38,7 @@ x install cronboard
 
 ## 流行度
 
-- **Star**: 1,453 · **Fork**: 60 · **开放 issue**: 28 · **贡献者**: 9
+- **Star**: 1,454 · **Fork**: 60 · **开放 issue**: 28 · **贡献者**: 9
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install cronboard
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last60d | 2026-07-20 | 3 | 0 | 0 | 1 | 0 | 88 |
-| 90d | 2026-06-20 | 5 | 0 | 1 | 3 | 0 | 128 |
-| last180d | 2026-03-22 | 13 | 6 | 3 | 10 | 1 | 310 |
-| 360d | 2025-09-23 | 27 | 16 | 3 | 26 | 2 | 440 |
-| last720d | 2024-09-28 | 27 | 16 | 3 | 26 | 2 | 467 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-07-22 | 3 | 0 | 0 | 1 | 0 | 2 |
+| 90d | 2026-06-22 | 5 | 0 | 1 | 3 | 0 | 127 |
+| last180d | 2026-03-24 | 13 | 6 | 3 | 10 | 1 | 310 |
+| 360d | 2025-09-25 | 27 | 16 | 3 | 26 | 2 | 440 |
+| last720d | 2024-09-30 | 27 | 16 | 3 | 26 | 2 | 467 |
 
 ## Release 资产
 
@@ -71,4 +71,4 @@ cronboard 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:02:18Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:51:52Z._
