@@ -18,7 +18,7 @@ Total: **5,134** lines of code across **45** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 3,637 | 26 | 686 | 38 |
+| Python | 3,637 | 25 | 685 | 38 |
 | Css | 922 | 70 | 155 | 2 |
 | Html | 159 | 6 | 7 | 2 |
 | Toml | 110 | 210 | 51 | 2 |
@@ -32,8 +32,8 @@ Total: **5,134** lines of code across **45** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.2.0` (2026-09-24)
-- **Last commit**: 2026-09-24
+- **Latest**: `v1.2.1` (2026-09-25)
+- **Last commit**: 2026-09-25
 - **Assets in release**: 2
 
 ## Popularity
@@ -42,25 +42,25 @@ Total: **5,134** lines of code across **45** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 16 · **Open PRs**: 3 · **Closed issues**: 26 · **Open issues**: 2 · **Commits**: 522
+- **Releases**: 29 · **Merged PRs**: 16 · **Open PRs**: 3 · **Closed issues**: 26 · **Open issues**: 2 · **Commits**: 524
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 1 | 0 | 0 | 0 | 0 | 56 |
-| last60d | 2026-07-27 | 4 | 0 | 0 | 0 | 0 | 57 |
-| 90d | 2026-06-27 | 6 | 0 | 0 | 3 | 0 | 182 |
-| last180d | 2026-03-29 | 14 | 6 | 3 | 9 | 1 | 365 |
-| 360d | 2025-09-30 | 28 | 16 | 3 | 26 | 2 | 495 |
-| last720d | 2024-10-05 | 28 | 16 | 3 | 26 | 2 | 522 |
+| 30d | 2026-08-27 | 2 | 0 | 0 | 0 | 0 | 58 |
+| last60d | 2026-07-28 | 4 | 0 | 0 | 0 | 0 | 59 |
+| 90d | 2026-06-28 | 7 | 0 | 0 | 3 | 0 | 184 |
+| last180d | 2026-03-30 | 15 | 6 | 3 | 9 | 1 | 367 |
+| 360d | 2025-10-01 | 29 | 16 | 3 | 26 | 2 | 497 |
+| last720d | 2024-10-06 | 29 | 16 | 3 | 26 | 2 | 524 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [cronboard-1.2.0-py3-none-any.whl](https://github.com/antoniorodr/cronboard/releases/download/v1.2.0/cronboard-1.2.0-py3-none-any.whl) | 49.2 KiB | `other` |
-| [cronboard-1.2.0.tar.gz](https://github.com/antoniorodr/cronboard/releases/download/v1.2.0/cronboard-1.2.0.tar.gz) | 3.0 MiB | `native/unknown` |
+| [cronboard-1.2.1-py3-none-any.whl](https://github.com/antoniorodr/cronboard/releases/download/v1.2.1/cronboard-1.2.1-py3-none-any.whl) | 49.1 KiB | `other` |
+| [cronboard-1.2.1.tar.gz](https://github.com/antoniorodr/cronboard/releases/download/v1.2.1/cronboard-1.2.1.tar.gz) | 3.0 MiB | `native/unknown` |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for cronboard lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:42:26Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:43:52Z._
