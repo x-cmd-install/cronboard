@@ -38,7 +38,7 @@ Total: **5,134** lines of code across **45** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,461 · **Forks**: 61 · **Open issues**: 28 · **Contributors**: 9
+- **Stars**: 1,463 · **Forks**: 61 · **Open issues**: 28 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **5,134** lines of code across **45** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 2 | 0 | 0 | 0 | 0 | 45 |
-| last60d | 2026-08-09 | 2 | 0 | 0 | 0 | 0 | 58 |
-| 90d | 2026-07-10 | 7 | 0 | 0 | 2 | 0 | 183 |
-| last180d | 2026-04-11 | 15 | 6 | 3 | 9 | 1 | 348 |
-| 360d | 2025-10-13 | 27 | 16 | 3 | 25 | 2 | 459 |
-| last720d | 2024-10-18 | 29 | 16 | 3 | 26 | 2 | 524 |
+| 30d | 2026-09-09 | 2 | 0 | 0 | 0 | 0 | 45 |
+| last60d | 2026-08-10 | 2 | 0 | 0 | 0 | 0 | 58 |
+| 90d | 2026-07-11 | 7 | 0 | 0 | 2 | 0 | 183 |
+| last180d | 2026-04-12 | 15 | 5 | 3 | 9 | 1 | 348 |
+| 360d | 2025-10-14 | 26 | 16 | 3 | 25 | 2 | 459 |
+| last720d | 2024-10-19 | 29 | 16 | 3 | 26 | 2 | 524 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for cronboard lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:51:52Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:58:46Z._
