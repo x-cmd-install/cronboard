@@ -38,7 +38,7 @@ x install cronboard
 
 ## 流行度
 
-- **Star**: 1,474 · **Fork**: 60 · **开放 issue**: 29 · **贡献者**: 9
+- **Star**: 1,475 · **Fork**: 60 · **开放 issue**: 29 · **贡献者**: 9
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install cronboard
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-09-07 | 2 | 0 | 0 | 0 | 1 | 52 |
-| 90d | 2026-08-08 | 2 | 0 | 0 | 0 | 1 | 58 |
-| last180d | 2026-05-10 | 12 | 1 | 0 | 5 | 1 | 298 |
-| 360d | 2025-11-11 | 21 | 13 | 1 | 21 | 2 | 432 |
-| last720d | 2024-11-16 | 29 | 16 | 1 | 26 | 3 | 524 |
+| 30d | 2026-10-08 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-08 | 2 | 0 | 0 | 0 | 1 | 52 |
+| 90d | 2026-08-09 | 2 | 0 | 0 | 0 | 1 | 58 |
+| last180d | 2026-05-11 | 12 | 1 | 0 | 5 | 1 | 298 |
+| 360d | 2025-11-12 | 20 | 13 | 1 | 21 | 2 | 432 |
+| last720d | 2024-11-17 | 29 | 16 | 1 | 26 | 3 | 524 |
 
 ## Release 资产
 
@@ -61,6 +61,14 @@ x install cronboard
 |------|-----:|----------|
 | [cronboard-1.2.1-py3-none-any.whl](https://github.com/antoniorodr/cronboard/releases/download/v1.2.1/cronboard-1.2.1-py3-none-any.whl) | 49.1 KiB | `other` |
 | [cronboard-1.2.1.tar.gz](https://github.com/antoniorodr/cronboard/releases/download/v1.2.1/cronboard-1.2.1.tar.gz) | 3.0 MiB | `native/unknown` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/cronboard) 上共有 **3** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `1.2.1` | ✅ latest |
 
 ## 改进这些数据
 
@@ -71,4 +79,4 @@ cronboard 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261106.yml` · 2026-11-06T07:35:41Z._
+_数据快照: `data/card/261107.yml` · 2026-11-07T06:48:52Z._
