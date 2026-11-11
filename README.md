@@ -14,14 +14,14 @@ x install cronboard
 
 ## Code insight
 
-Total: **5,134** lines of code across **45** files in the top 5 languages.
+Total: **5,131** lines of code across **45** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 3,637 | 25 | 685 | 38 |
+| Python | 3,632 | 25 | 683 | 38 |
 | Css | 922 | 70 | 155 | 2 |
 | Html | 159 | 6 | 7 | 2 |
-| Toml | 110 | 210 | 51 | 2 |
+| Toml | 112 | 210 | 52 | 2 |
 | Nix | 104 | 0 | 13 | 1 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **5,134** lines of code across **45** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.2.1` (2026-09-25)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-11-10
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 1,476 · **Forks**: 60 · **Open issues**: 29 · **Contributors**: 9
+- **Stars**: 1,476 · **Forks**: 61 · **Open issues**: 29 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 16 · **Open PRs**: 1 · **Closed issues**: 26 · **Open issues**: 3 · **Commits**: 524
+- **Releases**: 29 · **Merged PRs**: 16 · **Open PRs**: 2 · **Closed issues**: 26 · **Open issues**: 3 · **Commits**: 529
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-09-11 | 2 | 0 | 0 | 0 | 1 | 32 |
-| 90d | 2026-08-12 | 2 | 0 | 0 | 0 | 1 | 58 |
-| last180d | 2026-05-14 | 12 | 1 | 0 | 5 | 1 | 292 |
-| 360d | 2025-11-15 | 20 | 13 | 1 | 21 | 2 | 432 |
-| last720d | 2024-11-20 | 29 | 16 | 1 | 26 | 3 | 524 |
+| 30d | 2026-10-12 | 0 | 0 | 1 | 0 | 1 | 5 |
+| last60d | 2026-09-12 | 2 | 0 | 1 | 0 | 1 | 37 |
+| 90d | 2026-08-13 | 2 | 0 | 1 | 0 | 1 | 63 |
+| last180d | 2026-05-15 | 12 | 1 | 1 | 4 | 1 | 297 |
+| 360d | 2025-11-16 | 20 | 13 | 2 | 21 | 2 | 437 |
+| last720d | 2024-11-21 | 29 | 16 | 2 | 26 | 3 | 529 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for cronboard lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:14:28Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:35:49Z._
