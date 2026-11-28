@@ -3,8 +3,8 @@
   binnames:
     - cronboard
   visiblename: cronboard
-  version: 1.2.1
-  origversion: 1.2.1-alt1
+  version: 1.4.0
+  origversion: 1.4.0-alt1
   status: newest
   summary: A terminal-based dashboard for managing cron jobs locally and on servers
   maintainers:
@@ -17,8 +17,8 @@
   srcname: cronboard
   binname: cronboard
   visiblename: cronboard
-  version: 1.2.1
-  origversion: 1.2.1-1
+  version: 1.4.0
+  origversion: 1.4.0-1
   status: newest
   summary: A terminal-based dashboard for managing cron jobs
   maintainers:
@@ -28,7 +28,7 @@
 - repo: homebrew
   srcname: cronboard
   visiblename: cronboard
-  version: 1.2.1
+  version: 1.4.0
   origversion: null
   status: newest
   summary: Terminal-based dashboard for managing cron jobs locally and on servers
